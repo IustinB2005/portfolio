@@ -1,0 +1,54 @@
+[
+  {
+    "title": "3D Brains",
+    "date": "2026-11-21",
+    "subtitle": "Web app · Supabase · Cloudflare",
+    "image": "images/3dbrains.jpg",
+    "link": "https://3dbrains.ro",
+    "video": ""
+  },
+  {
+    "title": "Sleek Can Coaster",
+    "date": "2026-11-15",
+    "subtitle": "Fuzzy skin · 330ml · Printables",
+    "image": "",
+    "emoji": "🥤",
+    "color": "#f7971e,#ffd200",
+    "link": "https://www.printables.com/model/1917259-fuzzy-skin-sleek-can-coaster-330ml-aqua-carpatica",
+    "video": ""
+  },
+  {
+    "title": "CineMatch",
+    "date": "2026-08-24",
+    "subtitle": "\"Movie Tinder\" · VOIS Summer School",
+    "image": "",
+    "emoji": "🎬",
+    "color": "#e52d27,#b31217",
+    "link": "https://github.com/IustinB2005/vois-cinematch",
+    "video": ""
+  },
+  {
+    "title": "Mini Sumo Robot",
+    "date": "2026-03-15",
+    "subtitle": "C++ · Fusion 360 · RoboChallenge",
+    "image": "images/sumo.jpg",
+    "link": "https://github.com/IustinB2005/mini-sumo-robot",
+    "video": ""
+  },
+  {
+    "title": "ESP32 Robotic Arm",
+    "date": "2026-03-14",
+    "subtitle": "Embedded C · 3D printed",
+    "image": "images/arm.jpg",
+    "link": "https://github.com/IustinB2005/esp32-robotic-arm",
+    "video": ""
+  },
+  {
+    "title": "Raspberry Pi PIR Security",
+    "date": "2026-03-13",
+    "subtitle": "Python · Raspberry Pi · Arduino",
+    "image": "images/pir.jpg",
+    "link": "https://github.com/IustinB2005/raspberry-pi-pir",
+    "video": ""
+  }
+]

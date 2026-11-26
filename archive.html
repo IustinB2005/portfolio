@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Project Archive · Iustin Bogdan</title>
+<meta name="description" content="Older projects by Iustin Bogdan — robots, embedded systems and 3D prints.">
+<link rel="icon" href="images/avatar.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="wrap">
+  <a class="back" href="./">← Back</a>
+  <h1>Project archive</h1>
+  <p class="tagline" style="margin-top:6px">Older builds. The latest 4 are on the <a href="./" style="text-decoration:underline">homepage</a>.</p>
+  <div class="grid" data-projects="archive"></div>
+  <footer>© <span id="y"></span> Iustin Bogdan</footer>
+</main>
+<script src="projects.js"></script>
+<script>document.getElementById('y').textContent=new Date().getFullYear()</script>
+</body>
+</html>
